@@ -25,14 +25,16 @@ Each directory will contain the implementation file (the "how it works") and a c
 root/
 ├── phase2_linear/
 │   ├── arrays/
-|   |   ├── ds_static_array.go
-|   |   ├── ds_static_array_test.go
+│   │   ├── ds_static_array.go
+│   │   ├── ds_static_array_test.go
 │   │   ├── ds_dynamic_array.go             <-- Structure/Logic
 │   │   ├── ds_dynamic_array_test.go        <-- Test/Verification
 │   │   ├── algo_two_pointers.go            <-- Algorithm
 │   │   ├── algo_two_pointers_test.go       <-- Test/Verification
-|	| 	├── algo_sliding_window.go       
-│   │   └── algo_sliding_window_test.go
+│   │ 	├── algo_sliding_window.go       
+│   │   ├── algo_sliding_window_test.go
+│   │ 	├── algo_prefix_sum.go       
+│   │   └── algo_prefix_sum_test.go
 │   ├── linked_lists/
 │   │   ├── ds_singly_list.go               
 │   │   ├── ds_singly_list_test.go          
