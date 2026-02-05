@@ -1,16 +1,16 @@
 package sort
 
 func InsertionSort(array []int) []int {
+	for i := 1; i < len(array); i++ {
+		key := array[i]
+		j := i - 1
 
-	for slit := 1; slit < len(array); slit++ {
-		for i := slit - 1; i >= 0; i-- {
-			if array[i+1] <= array[i] {
-				array[i+1], array[i] = array[i], array[i+1]
-			} else {
-				break
-			}
+		for j >= 0 && array[j] > key {
+			array[j+1] = array[j]
+			j--
 		}
-	}
 
+		array[j+1] = key
+	}
 	return array
 }
