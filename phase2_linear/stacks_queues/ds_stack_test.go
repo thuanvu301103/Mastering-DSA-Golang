@@ -36,7 +36,7 @@ func TestStack(t *testing.T) {
 			val, ok := s.Peek()
 			is.True(ok)
 			is.Equal(100, val)
-			is.Equal(1, len(*s), "Stack size should still be 1 after Peek")
+			is.Equal(1, len(s.data), "Stack size should still be 1 after Peek")
 		})
 
 		t.Run("Empty_Stack_Behavior", func(t *testing.T) {
@@ -61,7 +61,7 @@ func TestStack(t *testing.T) {
 
 			val, _ := s.Peek()
 			is.Equal(999, val)
-			is.Equal(1000, len(*s))
+			is.Equal(1000, len(s.data))
 		})
 	})
 }
