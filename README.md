@@ -41,6 +41,22 @@ root/
 │   │   ├── algo_cycle_detection.go         
 │   │   └── algo_cycle_detection_test.go    
 │   └── README.md                           <-- Theory & Documentation
+├── phase3_sort_search_hash/
+│   ├── sort/
+│   │   ├── ds_max_heap.go
+│   │   ├── ds_max_heap_test.go
+│   │   ├── algo_bubble_sort.go
+│   │   ├── algo_bubble_sort_test.go
+│   │   ├── algo_insertion_sort.go
+│   │   ├── algo_insertion_sort_test.go
+│   │   ├── algo_selection_sort.go
+│   │   ├── algo_selection_sort_test.go
+│   │   ├── algo_merge_sort.go
+│   │   ├── algo_merge_sort_test.go
+│   │   ├── algo_quick_sort.go
+│   │   ├── algo_quick_sort_test.go
+│   │   ├── algo_heap_sort.go
+│   │   └── algo_heap_test.go
 ```
 
 ## File Content Standards
