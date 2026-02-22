@@ -48,9 +48,7 @@ root/
 │   │   ├── ds_monotonic_stack.go          
 │   │   ├── ds_monotonic_stack_test.go
 │   │   ├── ds_circular_queue.go          
-│   │   ├── ds_circular_queue_test.go
-│   │   ├── ds_queue.go          
-│   │   └── ds_queue_test.go    
+│   │   └── ds_circular_queue_test.go
 │   └── README.md                           <-- Theory & Documentation
 ├── phase3_sort_search_hash/
 │   ├── sort/
