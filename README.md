@@ -65,7 +65,11 @@ root/
 │   │   ├── algo_quick_sort.go
 │   │   ├── algo_quick_sort_test.go
 │   │   ├── algo_heap_sort.go
-│   │   └── algo_heap_test.go
+│   │   └── algo_heap_sort_test.go
+├── phase4_non_linear/
+│   ├── trees/
+│   │   ├── ds_heap.go
+│   │   └── ds_heap_test.go
 ```
 
 ## File Content Standards
