@@ -38,8 +38,8 @@ root/
 │   ├── linked_lists/
 │   │   ├── ds_singly_list.go               
 │   │   ├── ds_singly_list_test.go          
-│   │   ├── algo_cycle_detection.go         
-│   │   └── algo_cycle_detection_test.go
+│   │   ├── algo_reverse_list.go         
+│   │   └── algo_reverse_list_test.go
 │   ├── stacks_queues/
 │   │   ├── ds_stack.go
 │   │   ├── ds_stack_test.go               
