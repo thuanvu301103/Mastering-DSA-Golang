@@ -39,7 +39,9 @@ root/
 │   │   ├── ds_singly_list.go               
 │   │   ├── ds_singly_list_test.go          
 │   │   ├── algo_reverse_list.go         
-│   │   └── algo_reverse_list_test.go
+│   │   ├── algo_reverse_list_test.go
+│   │   ├── algo_find_middle.go         
+│   │   └── algo_find_middle_test.go
 │   ├── stacks_queues/
 │   │   ├── ds_stack.go
 │   │   ├── ds_stack_test.go               
