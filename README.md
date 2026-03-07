@@ -70,6 +70,9 @@ root/
 │   │   ├── algo_quick_sort_test.go
 │   │   ├── algo_heap_sort.go
 │   │   └── algo_heap_sort_test.go
+│   ├── sort/
+│   │   ├── algo_linear_search.go
+│   │   └── algo_linear_search_test.go
 ├── phase4_non_linear/
 │   ├── trees/
 │   │   ├── ds_heap.go
