@@ -77,6 +77,8 @@ root/
 │   │   └── algo_linear_search_test.go
 ├── phase4_non_linear/
 │   ├── trees/
+│   │   ├── algo_binary_tree_traversal.go
+│   │   ├── algo_binary_tree_traversal_test.go
 │   │   ├── ds_heap.go
 │   │   └── ds_heap_test.go
 ```
