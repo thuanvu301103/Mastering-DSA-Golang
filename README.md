@@ -71,6 +71,8 @@ root/
 │   │   ├── algo_heap_sort.go
 │   │   └── algo_heap_sort_test.go
 │   ├── sort/
+│   │   ├── algo_binary_search.go
+│   │   ├── algo_binary_search_test.go
 │   │   ├── algo_linear_search.go
 │   │   └── algo_linear_search_test.go
 ├── phase4_non_linear/
